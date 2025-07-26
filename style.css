@@ -1,0 +1,114 @@
+*{
+    font-family: "Inter", sans-serif;
+}
+.img-fluid {
+    max-width: 100px;
+    height: 100px;
+    
+}
+.whatsappbtn{
+    border: 1px solid #27AE60;
+    padding: 10px 18px;
+    color: #27AE60;
+    font-size: 16px;
+}
+.whatsappbtn i{
+    color: #27AE60;
+}
+.whatsappbtn:hover{
+    border:  1px solid #27AE60;;
+}
+.call{
+    background: linear-gradient( to right, #0ACEFE, #2699FB);
+    color: white;
+    padding: 10px 18px;
+}
+.bannercontent{
+    font-size: 52px;
+    font-weight: 700;
+}
+.bannercontent p{
+    font-size: 22px;
+    font-weight: normal;
+}
+.bannercontent h1 span{
+    color: #2699FB;
+}
+.bannercontent  ul li{
+    font-size: 22px;
+    font-weight: normal;
+    list-style: none;
+}
+.bannercontent  ul li i{
+    color:#2699FB; ;
+}
+.bannercontentbtn{
+    font-size: 20px;
+}
+.bannercontentbtn button{
+    width: 50%;
+    border-radius:5px;
+}
+.demobtn{
+    color: white;
+    background: linear-gradient(to right,#0ACEFE,#2699FB);
+}
+.bannerform{
+    padding: 40px;
+    border-radius: 10px;
+}
+.bannerform h3{
+    font-weight: bold;
+    font-size: 18px;
+}
+.bannerform button{
+    width: 100%;
+    padding: 10px 0px;
+    border: none;
+    background: linear-gradient(to right,#0ACEFE,#2699FB);
+}
+.countersection h2{
+    font-size: 30px;
+    font-weight: bold;
+    color: #2699FB;
+}
+.highlight-section{
+    background-color: #f7faff;
+}
+.highlight-section h2{
+    color: #0a2134;
+    font-size: 36px;
+    font-weight: bold;
+}
+.highlight-section p{
+    font-size: 18px;
+}
+.highlightitems h4{
+    font-size: 20px;
+    font-weight: 600;
+   
+}
+.icon{
+    height: 100px;
+    width: 169px;
+}
+.icon i{
+    font-size: 100px;
+}
+.highlightitems p{
+    font-size: 15px;
+}
+#navbarNav ul li a{
+font-weight: bold;
+color: #0ACEFE;
+margin: 15px;
+}
+.tabItemscontent{
+    list-style: none;
+}
+.tabMysystem .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: #f2f4f7;
+    color: black;
+    border-radius: 0px;
+    border-bottom: 2px solid blue;
+}
